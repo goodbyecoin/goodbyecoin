@@ -14,7 +14,4 @@ QR Code Support
 
 10000 Blocks for Mature Coins
 
-RPC Port = 6666
-
-P2P Port = 5555
 
